@@ -1,0 +1,15 @@
+# Collector
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**name** | **string** |  | 
+**address** | **string** |  | 
+**postalcode** | **string** |  | 
+**city** | **string** |  | 
+**bic** | **string** |  | 
+**iban** | **string** |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
